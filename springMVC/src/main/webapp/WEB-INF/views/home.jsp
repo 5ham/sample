@@ -30,5 +30,7 @@
 <a href="<%=request.getContextPath()%>/ajax/main.do">ajax 예제 페이지로!!</a>
 <br>
 <a href="<%=request.getContextPath()%>/upload/ex01.do">파일 업로드 예제로 가기</a>
+
+gitgitgitggit
 </body>
 </html>
